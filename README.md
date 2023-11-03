@@ -1,4 +1,4 @@
-### 99% con nợ dừng cuộc chơi trước khi thắng lớn. 👋
+### Cơm, áo, gạo, project digital marketing 👋
 
 <!--
 **ngnquanq/ngnquanq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
