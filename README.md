@@ -1,4 +1,4 @@
-### toi nho co ay... 
+### tai qua nan khoi 
 
 <!--
 **ngnquanq/ngnquanq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
