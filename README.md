@@ -1,4 +1,4 @@
-### I miss her...
+#### *"Every thing that you love, you will eventually lose, but in the end, love will return in a different form"* - Franz Kafka
 
 <!--
 **ngnquanq/ngnquanq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
