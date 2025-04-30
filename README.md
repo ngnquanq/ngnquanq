@@ -1,5 +1,3 @@
-#### 15/01/2025, I change this README.md so that github still count my contribution... (I had an IELTS test on this day)
-
 <!--
 **ngnquanq/ngnquanq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
